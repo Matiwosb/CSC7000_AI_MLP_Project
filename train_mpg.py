@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 import requests
 from io import StringIO
 
-from m import *
+from mlp import *
 
 def download_and_split_data(test_size=0.2, val_size=0.2):
     """
