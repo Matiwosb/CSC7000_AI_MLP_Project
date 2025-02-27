@@ -1,0 +1,96 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# pip environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.wheel
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Scrapy stuff
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE-specific files
+## JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+out/
+
+## VSCode
+.vscode/
+*.code-workspace
+
+## Eclipse
+.project
+.metadata/
+*.tmp
+*.bak
+*.swp
+*.idea/
+
+## Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+## Other editors
+*~
+*.swp
+
+# Environment variables
+.env
+.env.*
